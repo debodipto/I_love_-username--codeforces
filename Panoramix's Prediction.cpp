@@ -12,7 +12,6 @@ bool isprime(int n)
     }
     return true;
 }
-
 int main()
 {
     int n, m;
